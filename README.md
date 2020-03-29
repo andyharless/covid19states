@@ -2,3 +2,4 @@
 
 In case Github's Jupyter renderer is still flaky, use nbviewer to look at the file(s):
 - [Positive rate charts from latest update (covid_pos_rate_compare_update.ipynb)](https://nbviewer.jupyter.org/github/andyharless/covid19states/blob/master/covid_pos_rate_compare_update.ipynb)
+(but these don't update immediately, so try the original files first)
